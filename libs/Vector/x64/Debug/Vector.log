@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Vector.cpp
+C:\Users\lizap\source\repos\libs\Vector\Vector.h(12,12): warning C4251: "Vector::x": "Number" должен иметь dll-интерфейс для использования клиентами "Vector"
+  (компиляция исходного файла "Vector.cpp")
+      C:\Users\lizap\source\repos\libs\Number\Number.h(6,18):
+       см. объявление "Number"
+  
+C:\Users\lizap\source\repos\libs\Vector\Vector.h(12,15): warning C4251: "Vector::y": "Number" должен иметь dll-интерфейс для использования клиентами "Vector"
+  (компиляция исходного файла "Vector.cpp")
+      C:\Users\lizap\source\repos\libs\Number\Number.h(6,18):
+       см. объявление "Number"
+  
+  Создание кода...
+     Создается библиотека C:\Users\lizap\source\repos\libs\x64\Debug\Vector.lib и объект C:\Users\lizap\source\repos\libs\x64\Debug\Vector.exp
+  Vector.vcxproj -> C:\Users\lizap\source\repos\libs\x64\Debug\Vector.dll
